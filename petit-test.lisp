@@ -38,7 +38,7 @@
 ;; TEST-+ Passed: 2/3 Failed: 1/3
 
 
-(in-package :cl-user)
+(in-package :petit-test)
 
 (defpackage :petit-test
   (:use :common-lisp)
